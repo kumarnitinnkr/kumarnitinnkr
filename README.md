@@ -25,28 +25,34 @@ Strong understanding of database design, API architecture, and clean code practi
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 Developer Productivity MVP
+### 🔴 Advanced Project
 
-✔ Task tracking system with structured backend architecture
+#### Developer Productivity MVP
+
+✔ Scalable backend architecture using Spring Boot
 ✔ REST APIs with database integration
 🔗 https://github.com/kumarnitinnkr/developer-productivity-mvp
 
 ---
 
-### 🔹 WhatsApp Chatbot Backend
+### 🔵 Intermediate / Mini Project
 
-✔ Automated chatbot backend deployed on cloud
-✔ API-based communication system
+#### WhatsApp Chatbot Backend
+
+✔ Cloud-deployed backend system
+✔ API-based communication
 🔗 https://github.com/kumarnitinnkr/whatsapp-chatbot-backend
 
 ---
 
-### 🔹 Online Food Ordering System
+### 🟢 Basic Project
+
+#### Online Food Ordering System
 
 ✔ Java OOP-based modular system
-✔ Clean package structure & exception handling
+✔ Exception handling & clean structure
 🔗 https://github.com/kumarnitinnkr/online-food-ordering-java
 
 ---
