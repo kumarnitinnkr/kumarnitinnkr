@@ -76,8 +76,8 @@ Strong understanding of database design, API architecture, and clean code practi
 
 ## 📫 Contact
 
-* 📧 Email: your-email
-* 🔗 LinkedIn: your-linkedin
+* 📧 Email: kumarnitinnkr@gmail.com
+* 🔗 LinkedIn: https://www.linkedin.com/in/kumarnitinnkr/
 
 ---
 
